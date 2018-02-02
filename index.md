@@ -1,10 +1,20 @@
 ---
 layout: home
 ---
-# About Theme
+# AptaSuite
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+A full-featured aptamer bioinformatics software collection for the comprehensive analysis of aptamers in HT-SELEX experiments.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+AptaSUITE is a platform independent implementation of multiple algorithms designed for the identification of aptamer candidate sequences and the analysis of the SELEX process per se.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+AptaSUITE is designed to be scalable with both data size and CPU count while minimizing the memory footprint by providing fast, off-heap data structures and storage solutions.
+
+In its core, AptaSUITE consists of a collection of APIs and corresponding implementations facilitating storage, retrieval, and manipulation of aptamer data (such as sequences, aptamer counts in individual selection cycles, structure information and more). On top of these core data structures, a number of previously published algorithms have been implemented. Currently, these are [AptaPLEX](https://www.ncbi.nlm.nih.gov/pubmed/27080809), [AptaSIM](https://www.ncbi.nlm.nih.gov/pubmed/25870409), [AptaCLUSTER](https://www.ncbi.nlm.nih.gov/pubmed/25558474), and [AptaTRACE](https://www.ncbi.nlm.nih.gov/pubmed/27467247).
+
+If you have any issues or recommendations, please feel free to open a [ticket](https://github.com/drivenbyentropy/aptasuite/issues).
+
+## Installation
+Download the latest precompiled version from the [release page](https://github.com/drivenbyentropy/aptasuite/releases) or [build the project from source](https://github.com/drivenbyentropy/aptasuite/wiki/Compiling-from-source).
+
+## Usage
+Please see the [Wiki](https://github.com/drivenbyentropy/aptasuite/wiki) for a detailed manual.
