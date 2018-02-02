@@ -1,6 +1,6 @@
 # Site
 title: AptaSuite
-description: A full-featured bioinformatics software collection for the comprehensive analysis of aptamers for HT-SELEX experiments
+description: A full-featured bioinformatics software collection for the comprehensive analysis of aptamers in HT-SELEX experiments
 url: //drivenbyentropy.github.io
 logo: halve.png                                       # Site logo
 locale: en_US
@@ -33,8 +33,8 @@ sass:
 #google.plus:        username
 #twitter:            username
 #facebook:           username
-#github:             username
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+github:             drivenbyentropy
+stackoverflow:     9044071/drivenbyentropy   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 #instagram:          username
