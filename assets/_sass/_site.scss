@@ -18,9 +18,8 @@
   position: relative;
   display: table;
   > div {
-    display: block;
+    display: table-cell;
     vertical-align: middle;
-    overflow-y: scroll;
   }
   .content {
     height: 100%;
