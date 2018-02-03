@@ -20,34 +20,6 @@
     padding-top: 35px !important;
 }
 
-/*BEGIN*/
-
-.element, .outer-container {
- width: 200px;
- height: 200px;
-}
- 
-.outer-container {
- border: 5px solid purple;
- position: relative;
- overflow: hidden;
-}
- 
-.inner-container {
- position: absolute;
- left: 0;
- overflow-x: hidden;
- overflow-y: scroll;
-}
- 
-.inner-container::-webkit-scrollbar {
- display: none;
-}
-
-
-/*END*/
-
-
 .block-left,
 .block-right {
   width: 50%;
@@ -485,11 +457,11 @@ canvas {
     }
   }
   .logo {
-    top: 20px;
+    /*top: 20px;
     left: 20px;
-    position: absolute;
+    position: absolute;*/
     img {
-      width: 50px;
+      width: 150px;
       height: auto;
     }
     &:after {
