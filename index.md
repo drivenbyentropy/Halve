@@ -20,5 +20,5 @@ Download the latest precompiled version from the [release page](https://github.c
 
 Please see the [Wiki](https://github.com/drivenbyentropy/aptasuite/wiki) for a detailed manual.
 
-# Issues and Recommendations
+# Issues and Comments
 If you have any issues or recommendations, please feel free to open a [ticket](https://github.com/drivenbyentropy/aptasuite/issues).
