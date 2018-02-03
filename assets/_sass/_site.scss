@@ -16,6 +16,11 @@
     overflow-y: scroll;
 }
 
+#scrollable h1 + p {
+    background-color: red;
+    padding-top: 35px !important;
+}
+
 .block-left,
 .block-right {
   width: 50%;
