@@ -16,7 +16,7 @@
     overflow-y: scroll;
 }
 
-#scrollable h1 + p {
+.about-info h1 + p {
     padding-top: 35px !important;
 }
 
@@ -461,7 +461,7 @@ canvas {
     left: 20px;
     position: absolute;*/
     img {
-      width: 150px;
+      width: 150px; /*logo size*/
       height: auto;
     }
     &:after {
