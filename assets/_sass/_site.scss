@@ -56,9 +56,9 @@ canvas {
 }
 
 .projects-menu-icon {
-  position: absolute;
+  position: fixed;
   top: 30px;
-  right: 30px;
+  right: 45px;
   width: 15px;
   height: 15px;
   border: 2px solid $gray;
@@ -150,7 +150,8 @@ canvas {
 
 .posts-link,
 .projects-link {
-  position: absolute;
+  position: fixed;
+  right: 35px !important;
   top: 73px;
   font-size: 12px;
   color: darken($white, 40);
