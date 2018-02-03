@@ -11,6 +11,11 @@
   overflow-y: auto;
 }
 
+.block-right>div {
+    display: block;
+    overflow-y: scroll;
+}
+
 .block-left,
 .block-right {
   width: 50%;
