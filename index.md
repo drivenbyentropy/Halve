@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# AptaSUITE
+# AptaSUITEee
 A full-featured aptamer bioinformatics software collection for the comprehensive analysis of HT-SELEX experiments.
 
 AptaSUITE is a platform independent implementation of multiple algorithms designed for the identification of aptamer candidate sequences and the analysis of the SELEX process per se.
@@ -13,7 +13,9 @@ In its core, AptaSUITE consists of a collection of APIs and corresponding implem
 If you have any issues or recommendations, please feel free to open a [ticket](https://github.com/drivenbyentropy/aptasuite/issues).
 
 # Installation
+
 Download the latest precompiled version from the [release page](https://github.com/drivenbyentropy/aptasuite/releases) or [build the project from source](https://github.com/drivenbyentropy/aptasuite/wiki/Compiling-from-source).
 
 # Usage
+
 Please see the [Wiki](https://github.com/drivenbyentropy/aptasuite/wiki) for a detailed manual.
