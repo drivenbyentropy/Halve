@@ -32,7 +32,7 @@ layout: compress
     <span class="projects-link"><center>MORE<br>PROJECTS</center></span>
     <div id="scrollable" class="content">
       <div class="about-info">
-        <div class="scrollbar-macosx">
+        <div data-simplebar>
           {{ content }}
         </div>
       </div>
@@ -41,6 +41,6 @@ layout: compress
   {% include overlay.html %}
   {% include scripts.html %}
   <script src="{{ site.url }}/assets/js/canvas.js"></script>
-  <script>jQuery(document).ready(function(){ jQuery('.scrollbar-macosx').scrollbar(); });</script>
+  <!-- <script>jQuery(document).ready(function(){ jQuery('.scrollbar-macosx').scrollbar(); });</script> -->
 </body>
 </html>
