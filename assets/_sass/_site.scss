@@ -6,6 +6,15 @@
   }
 }
 
+h1, h2, h3, h4
+{
+    & + p
+    {
+        padding-top: 35px;
+    }
+}
+
+
 .block-right {
   float: right;
   overflow-y: auto;
