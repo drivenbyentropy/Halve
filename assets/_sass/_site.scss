@@ -12,8 +12,8 @@
 }
 
 #scrollable {
-    display: block !important;
-    /*overflow-y: scroll;*/
+    /*display: block !important;*/
+    overflow-y: scroll;
 }
 
 #scrollable h1 + p {
