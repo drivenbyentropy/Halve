@@ -11,16 +11,6 @@
   overflow-y: auto;
 }
 
-
-::-webkit-scrollbar {
-    width: 0px;  /* remove scrollbar space */
-    /* background: transparent;   optional: just make scrollbar invisible */
-}
-/* optional: show position indicator in red */
-::-webkit-scrollbar-thumb {
-    background: #FF0000;
-}
-
 #scrollable {
     display: block !important;
     overflow-y: scroll;
@@ -29,6 +19,34 @@
 #scrollable h1 + p {
     padding-top: 35px !important;
 }
+
+/*BEGIN*/
+
+.element, .outer-container {
+ width: 200px;
+ height: 200px;
+}
+ 
+.outer-container {
+ border: 5px solid purple;
+ position: relative;
+ overflow: hidden;
+}
+ 
+.inner-container {
+ position: absolute;
+ left: 0;
+ overflow-x: hidden;
+ overflow-y: scroll;
+}
+ 
+.inner-container::-webkit-scrollbar {
+ display: none;
+}
+
+
+/*END*/
+
 
 .block-left,
 .block-right {
