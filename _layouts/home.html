@@ -23,22 +23,20 @@ layout: compress
     <canvas></canvas>
   </div>
 
-    <div class="block-right">
-      <div class="share-buttons">
-        {% include share.html %}
-      </div>
-      <a href="../posts.html" title="posts" class="posts-menu-icon"></a>
-      <a title="projects" class="projects-menu-icon">
-        <span></span>
-      </a>
-      <div class="inner-post content">
-        <div class="date-highlight">{% if page.date %}{{ page.date | date: '%d %b %Y' }}{% else %}&#x2756;{% endif %}</div>
-        {{ content }}
-        <br>
-        {% include share.html %}
-        {% include page-pagination.html %}
+<div class="block-right">
+    <!-- <a href="{{ site.url }}/posts" title="posts" class="posts-menu-icon"></a>
+    <span class="posts-link">POSTS</span> -->
+    <a title="project" class="projects-menu-icon">
+      <span></span>
+    </a>
+    <span class="projects-link"><center>MORE<br>PROJECTS</center></span>
+    <div class="content">
+      <div class="about-info">
+          {{ content }}
       </div>
     </div>
+	
+  </div>
   {% include overlay.html %}
   {% include scripts.html %}
   <script src="{{ site.url }}/assets/js/canvas.js"></script>
