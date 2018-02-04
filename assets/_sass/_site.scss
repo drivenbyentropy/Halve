@@ -113,8 +113,8 @@ canvas {
 
 .posts-menu-icon {
   position: absolute;
-  top: 30px;
-  right: 90px;
+  top: 65px;
+  left: 340px;
   width: 20px;
   height: 25px;
   border: 2px solid $gray;
@@ -462,7 +462,7 @@ canvas {
     left: 20px;
     position: absolute;*/
     img {
-      width: 300px; /*logo size*/
+      width: 300 px; /*logo size*/
       height: auto;
     }
     &:after {
