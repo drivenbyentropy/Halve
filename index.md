@@ -4,7 +4,7 @@ layout: home
 # AptaSUITE
 
 <a href="{{ site.url }}/posts" title="posts" class="posts-menu-icon"></a>
-<span class="posts-link">POSTS</span>
+<span class="download-zip">POSTS</span>
 
 
 AptaSUITE is a platform independent implementation of multiple algorithms designed for the identification of aptamer candidate sequences and the analysis of the SELEX process per se.
