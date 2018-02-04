@@ -3,7 +3,7 @@ layout: home
 ---
 # AptaSUITE
 
-<a href="{{ site.url }}/posts" title="posts" class="posts-menu-icon"></a>
+<a href="https://github.com/drivenbyentropy/aptasuite/releases/download/v0.5/aptasuite-0.5.0.zip" title="posts" class="posts-menu-icon"></a>
 <span class="download-zip">&#8681; *.ZIP</span>
 
 
