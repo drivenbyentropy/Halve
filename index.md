@@ -4,7 +4,7 @@ layout: home
 # AptaSUITE
 
 <a href="https://github.com/drivenbyentropy/aptasuite/releases/download/v0.5/aptasuite-0.5.0.zip" title="posts" class="posts-menu-icon"></a>
-<span class="download-zip">&#8681; *.ZIP</span>
+<span class="download-zip">&#8690; *.ZIP</span>
 
 
 AptaSUITE is a platform independent implementation of multiple algorithms designed for the identification of aptamer candidate sequences and the analysis of the SELEX process per se.
