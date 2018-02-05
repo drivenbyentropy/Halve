@@ -23,8 +23,8 @@ If you have any issues or recommendations, please feel free to open a [ticket](h
 ### Screenshots
 
 {% capture images %}
-	{{ site.url }}/images/halve-home-image.png
-	{{ site.url }}/images/post-image-halve-1.png
-	{{ site.url }}/images/post-image-halve-2.png
+	{{ site.url }}/images/screnshot1.png
+	{{ site.url }}/images/screnshot1.png
+	{{ site.url }}/images/screnshot1.png
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Halve Theme" cols=3 %}
