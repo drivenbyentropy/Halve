@@ -1,9 +1,14 @@
 - title: CapR4J
   url: https://github.com/drivenbyentropy/capr4j
-  image: http://taylantatli.me/Halve/images/halve-home-image.png
+  image: https://github.com/drivenbyentropy/drivenbyentropy.github.io/raw/master/images/capr.jpg
   completed: true
 
 - title: RNAFold4J
   url: https://github.com/drivenbyentropy/rnafold4j
-  image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+  image: https://github.com/drivenbyentropy/drivenbyentropy.github.io/raw/master/images/rnafold.jpg
+  completed: true
+
+- title: More Projects
+  url: https://www.ncbi.nlm.nih.gov/CBBresearch/Przytycka/index.cgi#projects
+  image: https://github.com/drivenbyentropy/drivenbyentropy.github.io/raw/master/images/ncbilink.jpg
   completed: true
