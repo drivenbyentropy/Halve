@@ -1,9 +1,7 @@
 ---
 layout: home
 ---
-# AptaSUITE
-
-<a href="https://github.com/drivenbyentropy/aptasuite/releases/download/v0.5/aptasuite-0.5.0.zip" title="posts" class="posts-menu-icon-zip"></a>
+# AptaSUITE <a href="https://github.com/drivenbyentropy/aptasuite/releases/download/v0.5/aptasuite-0.5.0.zip" title="posts" class="posts-menu-icon-zip"></a>
 <span class="download-zip">&#8681; *.ZIP</span>
 <a href="https://github.com/drivenbyentropy/aptasuite/archive/v0.5.tar.gz" title="posts" class="posts-menu-icon-source"></a>
 <span class="download-source">&#8681; SOURCE</span>
