@@ -20,7 +20,7 @@ Download the latest precompiled version from the [release page](https://github.c
 # Issues and Comments
 If you have any issues or recommendations, please feel free to open a [ticket](https://github.com/drivenbyentropy/aptasuite/issues).
 
-### Screenshots
+## Screenshots
 
 {% capture images %}
 	{{ site.url }}/images/screnshot1.png
