@@ -29,9 +29,9 @@ If you have any issues or recommendations, please feel free to open a [ticket](h
 ### Screenshots
 
 {% capture images %}
-	{{ site.url }}/images/screnshot1.png
 	{{ site.url }}/images/screnshot2.png
-	{{ site.url }}/images/screnshot3.png
 	{{ site.url }}/images/screnshot4.png
+	{{ site.url }}/images/screnshot1.png
+	{{ site.url }}/images/screnshot3.png
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Halve Theme" cols=2 %}
+{% include gallery images=images caption="Screen shots of the Graphical User Interface implemented within AptaSUITE" cols=2 %}
