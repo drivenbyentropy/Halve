@@ -19,3 +19,12 @@ Download the latest precompiled version from the [release page](https://github.c
 
 # Issues and Comments
 If you have any issues or recommendations, please feel free to open a [ticket](https://github.com/drivenbyentropy/aptasuite/issues).
+
+### Screenshots
+
+{% capture images %}
+	{{ site.url }}/images/halve-home-image.png
+	{{ site.url }}/images/post-image-halve-1.png
+	{{ site.url }}/images/post-image-halve-2.png
+{% endcapture %}
+{% include gallery images=images caption="Screenshots of Halve Theme" cols=3 %}
