@@ -13,13 +13,9 @@ In its core, AptaSUITE consists of a collection of APIs and corresponding implem
 
 <center> The programmatic architecture of <b>AptaSuite</b>. Core libraries for the storage, retrieval and manipulation of aptamers are accessed through a well-defined API which in turn serves data to and accepts data from the algorithms responsible for input, processing, and output of aptamers. Each computational method is accessible either from command line or through the graphical user interface. </center><br>
 
-# Installation
+# Installation and Usage
 
-Download the latest precompiled version from the [release page](https://github.com/drivenbyentropy/aptasuite/releases) or [build the project from source](https://github.com/drivenbyentropy/aptasuite/wiki/Compiling-from-source).
-
-# Usage
-
-Please see the [Wiki](https://github.com/drivenbyentropy/aptasuite/wiki) for a detailed manual.
+Download the latest precompiled version from the [release page](https://github.com/drivenbyentropy/aptasuite/releases) or [build the project from source](https://github.com/drivenbyentropy/aptasuite/wiki/Compiling-from-source). A detailed manual is available through the [Wiki](https://github.com/drivenbyentropy/aptasuite/wiki) pages.
 
 # Issues and Comments
 If you have any issues or recommendations, please feel free to open a [ticket](https://github.com/drivenbyentropy/aptasuite/issues).
