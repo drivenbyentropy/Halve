@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# AptaSUITE <a href="https://github.com/drivenbyentropy/aptasuite/releases/download/v0.5/aptasuite-0.5.0.zip" title="posts" class="posts-menu-icon-zip"></a> <span class="download-zip">&#8681; *.ZIP</span> <a href="https://github.com/drivenbyentropy/aptasuite/archive/v0.5.tar.gz" title="posts" class="posts-menu-icon-source"></a> <span class="download-source">&#8681;&nbsp;SOURCE</span>
+### AptaSUITE <a href="https://github.com/drivenbyentropy/aptasuite/releases/download/v0.5/aptasuite-0.5.0.zip" title="posts" class="posts-menu-icon-zip"></a> <span class="download-zip">&#8681; *.ZIP</span> <a href="https://github.com/drivenbyentropy/aptasuite/archive/v0.5.tar.gz" title="posts" class="posts-menu-icon-source"></a> <span class="download-source">&#8681;&nbsp;SOURCE</span>
 
 AptaSUITE is a platform independent implementation of multiple algorithms designed for the identification of aptamer candidate sequences and the analysis of the SELEX process per se.
 
@@ -13,14 +13,20 @@ In its core, AptaSUITE consists of a collection of APIs and corresponding implem
 
 <center> The programmatic architecture of <b>AptaSuite</b>. Core libraries for the storage, retrieval and manipulation of aptamers are accessed through a well-defined API which in turn serves data to and accepts data from the algorithms responsible for input, processing, and output of aptamers. Each computational method is accessible either from command line or through the graphical user interface. </center><br>
 
-# Installation and Usage
+### Installation and Usage
 
-Download the latest precompiled version from the [release page](https://github.com/drivenbyentropy/aptasuite/releases) or [build the project from source](https://github.com/drivenbyentropy/aptasuite/wiki/Compiling-from-source). A detailed manual is available through the [Wiki](https://github.com/drivenbyentropy/aptasuite/wiki) pages.
+Download the latest precompiled version from the [release page](https://github.com/drivenbyentropy/aptasuite/releases) <b>or</b> [build the project from source](https://github.com/drivenbyentropy/aptasuite/wiki/Compiling-from-source). 
+```bash
+git clone https://github.com/drivenbyentropy/aptasuite.git
+mvn install
+```
 
-# Issues and Comments
+A detailed manual is available through the [Wiki](https://github.com/drivenbyentropy/aptasuite/wiki) pages.
+
+### Issues and Comments
 If you have any issues or recommendations, please feel free to open a [ticket](https://github.com/drivenbyentropy/aptasuite/issues).
 
-## Screenshots
+### Screenshots
 
 {% capture images %}
 	{{ site.url }}/images/screnshot1.png
