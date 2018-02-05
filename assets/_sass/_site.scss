@@ -114,7 +114,7 @@ canvas {
 .posts-menu-icon-zip {
   position: absolute;
   top: 5px;
-  right: 140px;
+  right: 120px;
   width: 20px;
   height: 25px;
   border: 2px solid $gray;
@@ -151,7 +151,7 @@ canvas {
 .posts-menu-icon-source {
   position: absolute;
   top: 5px;
-  right: 80px;
+  right: 60px;
   width: 20px;
   height: 25px;
   border: 2px solid $gray;
@@ -188,7 +188,7 @@ canvas {
 
 .download-zip, {
   position: absolute;
-  right: 140px !important;
+  right: 120px !important;
   top: 45px;
   font-size: 12px;
   color: darken($white, 40);
@@ -196,7 +196,7 @@ canvas {
 
 .download-source, {
   position: absolute;
-  right: 70px !important;
+  right: 50px !important;
   top: 45px;
   font-size: 12px;
   color: darken($white, 40);
