@@ -30,7 +30,8 @@ If you have any issues or recommendations, please feel free to open a [ticket](h
 
 {% capture images %}
 	{{ site.url }}/images/screnshot1.png
-	{{ site.url }}/images/screnshot1.png
-	{{ site.url }}/images/screnshot1.png
+	{{ site.url }}/images/screnshot2.png
+	{{ site.url }}/images/screnshot3.png
+	{{ site.url }}/images/screnshot4.png
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Halve Theme" cols=3 %}
+{% include gallery images=images caption="Screenshots of Halve Theme" cols=2 %}
