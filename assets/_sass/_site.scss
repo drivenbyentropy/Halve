@@ -151,7 +151,7 @@ canvas {
 .posts-menu-icon-source {
   position: absolute;
   top: 5px;
-  right: 110px;
+  right: 100px;
   width: 20px;
   height: 25px;
   border: 2px solid $gray;
@@ -196,8 +196,8 @@ canvas {
 
 .download-source, {
   position: absolute;
-  left: 385px !important;
-  top: 105px;
+  right: 90px !important;
+  top: 45px;
   font-size: 12px;
   color: darken($white, 40);
 }
