@@ -1,9 +1,9 @@
 - title: CapR4J
   url: https://github.com/drivenbyentropy/capr4j
-  image: https://github.com/drivenbyentropy/drivenbyentropy.github.io/blob/master/images/capr.jpg
+  image: https://github.com/drivenbyentropy/drivenbyentropy.github.io/raw/master/images/capr.jpg
   completed: true
 
 - title: RNAFold4J
   url: https://github.com/drivenbyentropy/rnafold4j
-  image: https://github.com/drivenbyentropy/drivenbyentropy.github.io/blob/master/images/rnafold.jpg
+  image: https://github.com/drivenbyentropy/drivenbyentropy.github.io/raw/master/images/rnafold.jpg
   completed: true
