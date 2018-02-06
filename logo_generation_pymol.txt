@@ -1,0 +1,27 @@
+delete *
+
+fetch 5HRT, async=0
+select chain A
+set_name sele, protein
+show_as surface,protein
+set surface_color, white, protein
+
+select chain B
+set_name sele,oligo
+show_as cartoon,oligo
+set cartoon_ring_mode, 3
+
+
+set_view (\
+     0.427200496,   -0.039203599,   -0.903304100,\
+     0.896628380,   -0.110310592,    0.428832352,\
+    -0.116454244,   -0.993128657,   -0.011975825,\
+     0.000000000,    0.000000000, -303.346130371,\
+   -34.706481934,  -43.534896851,    4.856362343,\
+  -567.177062988, 1173.869140625,  -20.000000000 )
+
+
+#color aptamer manually, then
+
+ray 4000
+png Downloads/out.png, dpi=300
