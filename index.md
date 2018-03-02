@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# AptaSUITE <a href="https://github.com/drivenbyentropy/aptasuite/releases/download/v0.5.3/aptasuite-0.6.9.zip" title="posts" class="posts-menu-icon-zip"></a> <span class="download-zip">&#8681; BINARY</span> <a href="https://github.com/drivenbyentropy/aptasuite/archive/v0.6.9.tar.gz" title="posts" class="posts-menu-icon-source"></a> <span class="download-source">&#8681;&nbsp;SOURCE</span>
+# AptaSUITE <a href="https://github.com/drivenbyentropy/aptasuite/releases/download/v0.6.9/aptasuite-0.6.9.zip" title="posts" class="posts-menu-icon-zip"></a> <span class="download-zip">&#8681; BINARY</span> <a href="https://github.com/drivenbyentropy/aptasuite/archive/v0.6.9.tar.gz" title="posts" class="posts-menu-icon-source"></a> <span class="download-source">&#8681;&nbsp;SOURCE</span>
 
 AptaSUITE is a platform independent implementation of multiple algorithms designed for the identification of aptamer candidate sequences and the analysis of the SELEX process per se. It provides both, command line and graphical user interfaces.
 
