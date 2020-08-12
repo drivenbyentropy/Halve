@@ -36,7 +36,7 @@ If you have any issues or recommendations, please feel free to open a [ticket](h
 {% endcapture %}
 {% include gallery images=images caption="Screen shots of the Graphical User Interface implemented within AptaSUITE" cols=2 %}
 
-## How to Cite
+### How to Cite
 If you use AptaSuite in your work, please cite it as
 ```
 AptaSUITE: A Full-Featured Bioinformatics Framework for the Comprehensive Analysis of Aptamers from HT-SELEX Experiments. 
