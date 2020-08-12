@@ -35,3 +35,14 @@ If you have any issues or recommendations, please feel free to open a [ticket](h
 	{{ site.url }}/images/screnshot3.png
 {% endcapture %}
 {% include gallery images=images caption="Screen shots of the Graphical User Interface implemented within AptaSUITE" cols=2 %}
+
+## How to Cite
+If you use AptaSuite in your work, please cite it as
+```
+AptaSUITE: A Full-Featured Bioinformatics Framework for the Comprehensive Analysis of Aptamers from HT-SELEX Experiments. 
+Hoinka, J., Backofen, R. and Przytycka, T. M. (2018). 
+Molecular Therapy - Nucleic Acids, 11, 515–517. https://doi.org/10.1016/j.omtn.2018.04.006
+```
+I addition, please cite the individual algorithms that aided your analysis. Details on how to cite these can be found in the `Help -> How to Cite` menu of the graphical user interface.
+
+AptaSUITE is developed and maintained by the [Teresa Przyckya lab](https://www.ncbi.nlm.nih.gov/CBBresearch/Przytycka/index.cgi#research) at the National Center for Biotechnology Information (NCBI/NIH), in particular by Jan Hoinka, and is released under the GNU Public License (GPL 3.0). We are also grateful for significant ideas and code from Phoung Dao, Rolf Backofen, and other generous contributors.
